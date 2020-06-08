@@ -1,0 +1,23 @@
+{
+  "name": "excel-course",
+  "version": "1.0.0",
+  "description": "excel",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PORTwein/my-test.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "ME <port1986.86@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PORTwein/my-test/issues"
+  },
+  "homepage": "https://github.com/PORTwein/my-test#readme"
+}
